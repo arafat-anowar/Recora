@@ -1,0 +1,14 @@
+*.iml
+.gradle
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+.idea/
+
+# Local custom plan files
+plan.md
+design.md
+antigravity.md
+fix.md
